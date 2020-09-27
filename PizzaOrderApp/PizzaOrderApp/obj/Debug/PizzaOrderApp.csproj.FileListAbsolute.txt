@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\PizzaOrderApp\PizzaOrderApp\bin\Debug\PizzaOrderApp.exe.config
+C:\Users\user\source\repos\PizzaOrderApp\PizzaOrderApp\bin\Debug\PizzaOrderApp.exe
+C:\Users\user\source\repos\PizzaOrderApp\PizzaOrderApp\bin\Debug\PizzaOrderApp.pdb
+C:\Users\user\source\repos\PizzaOrderApp\PizzaOrderApp\obj\Debug\PizzaOrderApp.OrderPizza.resources
+C:\Users\user\source\repos\PizzaOrderApp\PizzaOrderApp\obj\Debug\PizzaOrderApp.Properties.Resources.resources
+C:\Users\user\source\repos\PizzaOrderApp\PizzaOrderApp\obj\Debug\PizzaOrderApp.csproj.GenerateResource.cache
+C:\Users\user\source\repos\PizzaOrderApp\PizzaOrderApp\obj\Debug\PizzaOrderApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PizzaOrderApp\PizzaOrderApp\obj\Debug\PizzaOrderApp.exe
+C:\Users\user\source\repos\PizzaOrderApp\PizzaOrderApp\obj\Debug\PizzaOrderApp.pdb
+C:\Users\user\source\repos\PizzaOrderApp\PizzaOrderApp\obj\Debug\PizzaOrderApp.csprojAssemblyReference.cache
